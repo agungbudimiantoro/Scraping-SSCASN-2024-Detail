@@ -1,5 +1,5 @@
 # Scraping-SSCASN-2024-Detail
-scraping formasi cpns 2024 - detail job desk
+scraping formasi cpns 2024 - detail
 
 detail output : 
  'Formasi ID', 'MPI ID', 'Instansi ID', 'Instansi Kode', 'Institusi Nama', 
